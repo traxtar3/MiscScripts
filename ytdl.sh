@@ -8,7 +8,7 @@ SAVEPATH=/media/USER/Media/Youtube                               # Where video f
 DBPATH=/home/USER/MediaMgmt/YouYubeDl/Shows                     # Where database is saved
 USERLIST=/home/USER/MediaMgmt/YouYubeDl/userList.txt            # Use this for user lists
 CHANNELLIST=/home/USER/MediaMgmt/YouYubeDl/channelList.txt      # Use this for ligitimate channels
-YTDL=/home/USER/.local/bin/youtube-dl                           # Use this for ligitimate channels
+YTDL=/home/USER/.local/bin/youtube-dl                           # location of your youtube-dl install
 
 ###########################################
 # DON'T TOUCH ANYTHING BELOW THIS LINE!!!!#
